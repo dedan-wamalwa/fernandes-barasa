@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6653a8ce1659ad45aae112c1b6ad72c9",
+    "content-hash": "8c237cc69dc4410e260befe55787c115",
     "packages": [
         {
             "name": "codeigniter4/codeigniter4",
-            "version": "dev-develop",
+            "version": "v4.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/codeigniter4/CodeIgniter4.git",
-                "reference": "9727f104c8b7d1520e95d816857cd8a6c3f9ab8f"
+                "reference": "5f37fda626cae9e9c81244777263b70c581fa27d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/codeigniter4/CodeIgniter4/zipball/9727f104c8b7d1520e95d816857cd8a6c3f9ab8f",
-                "reference": "9727f104c8b7d1520e95d816857cd8a6c3f9ab8f",
+                "url": "https://api.github.com/repos/codeigniter4/CodeIgniter4/zipball/5f37fda626cae9e9c81244777263b70c581fa27d",
+                "reference": "5f37fda626cae9e9c81244777263b70c581fa27d",
                 "shasum": ""
             },
             "require": {
@@ -66,7 +66,6 @@
                 "ext-sqlsrv": "If you use SQL Server",
                 "ext-xdebug": "If you use CIUnitTestCase::assertHeaderEmitted()"
             },
-            "default-branch": true,
             "type": "project",
             "extra": {
                 "branch-alias": {
@@ -149,7 +148,7 @@
                 "slack": "https://codeigniterchat.slack.com",
                 "issues": "https://github.com/codeigniter4/CodeIgniter4/issues"
             },
-            "time": "2025-01-21T22:36:06+00:00"
+            "time": "2025-01-19T18:27:53+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -2244,9 +2243,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "codeigniter4/codeigniter4": 20
-    },
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

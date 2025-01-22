@@ -35,9 +35,6 @@ class Kint extends BaseConfig
     */
     public $richTheme  = 'aante-light.css';
     public $richFolder = false;
-    public $richSort   = Renderer::SORT_FULL;
-    public $richObjectPlugins;
-    public $richTabPlugins;
 
     /*
     |--------------------------------------------------------------------------
