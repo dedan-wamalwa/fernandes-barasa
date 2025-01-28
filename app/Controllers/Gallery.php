@@ -6,6 +6,6 @@ class Gallery extends BaseController
 {
 	public function index(){
 		//$data['title'] = 'Gallery';
-		return view('pages/gallary');
+		return view('pages/gallery');
 	}
 }
